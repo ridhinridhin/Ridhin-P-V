@@ -8,15 +8,6 @@
 
 ---
 
-╔════════════════════════════════════════════╗
-║              RIDHIN P V                   ║
-║ Software Engineer | RPA Developer         ║
-║ Full Stack Developer | AI Enthusiast      ║
-║ FastAPI • React • Python • UiPath         ║
-╚════════════════════════════════════════════╝
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridhinridhin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
@@ -89,7 +80,7 @@
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/ridhinridhin/ridhinridhin/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<img src="https://raw.githubusercontent.com/ridhinridhin/ridhin-p-v/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
