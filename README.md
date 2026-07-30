@@ -17,10 +17,9 @@
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ridhinridhin&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhinridhin&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ridhinridhin&theme=tokyonight&row=1&column=6" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhinridhin&theme=tokyo-night" />
 </p>
