@@ -1,8 +1,21 @@
-<h1 align="center">👋 Hello, I'm Ridhin P V</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:1A1A40,50:004E92,100:000428&text=Ridhin%20P%20V&fontColor=ffffff&fontSize=48&animation=twinkling&desc=Software%20Engineer%20%7C%20RPA%20Developer%20%7C%20Full%20Stack%20Developer&descSize=18&descAlignY=70" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&lines=Software+Engineer;Full+Stack+Developer;RPA+Developer;FastAPI+%7C+React;Automation+Anywhere+%7C+UiPath;Python+Developer;Building+HospitalAI;Open+Source+Contributor;Turning+Ideas+Into+Code" />
 </p>
+
+---
+
+╔════════════════════════════════════════════╗
+║              RIDHIN P V                   ║
+║ Software Engineer | RPA Developer         ║
+║ Full Stack Developer | AI Enthusiast      ║
+║ FastAPI • React • Python • UiPath         ║
+╚════════════════════════════════════════════╝
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ridhinridhin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
@@ -20,12 +33,12 @@
 
 # 👨‍💻 About Me
 
-- 💼 Software Engineer & RPA Developer
-- 🏥 Building **HospitalAI**
-- ⚡ FastAPI • React • Python • Automation Anywhere • UiPath
-- 🌱 Learning AI, scalable backend systems & cloud technologies
-- 🎯 Passionate about solving real-world problems with technology
-
+- 💼 Software Engineer | Full Stack Developer | RPA Developer
+- 🏥 Creator of HospitalAI – an AI-powered IT Help Desk for hospitals
+- 🤖 Experienced in Automation Anywhere & UiPath
+- ⚛️ Building modern web applications with FastAPI and React
+- 🌱 Exploring AI, cloud technologies, and scalable backend architectures
+- 🚀 Open to collaborating on innovative software and automation projects
 ---
 
 # 🛠️ Tech Stack
@@ -35,14 +48,16 @@
 </p>
 
 ---
-
-# 📊 GitHub Statistics
+## 📈 Coding Activity
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ridhinridhin&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhinridhin&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ridhinridhin&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ridhinridhin&theme=tokyonight&utcOffset=5.5"/>
 </p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight&hide_border=true"/>
@@ -50,10 +65,15 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 Profile Summary
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ridhinridhin&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ridhinridhin&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ridhinridhin&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ridhinridhin&theme=tokyonight" />
 </p>
 
 ---
@@ -93,15 +113,6 @@ AI-powered IT Help Desk platform built for hospitals.
 
 ---
 
-# 📌 Pinned Repositories
-
-⭐ **HospitalAI**  
-AI-powered hospital IT Help Desk using FastAPI & React.
-
-⭐ **More projects coming soon...**
-
----
-
 # 🌐 Connect with Me
 
 <p align="center">
@@ -110,7 +121,7 @@ AI-powered hospital IT Help Desk using FastAPI & React.
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:Ridhinridhin03@example.com">
+<a href="mailto:ridhinridhin03@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
