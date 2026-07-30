@@ -5,5 +5,9 @@
 </p>
 
 <p align="center">
+🚀 Passionate about Full Stack Development, Robotic Process Automation, and AI-powered applications.
+</p>
+
+<p align="center">
 💻 Full Stack • 🤖 RPA • 🐍 Python • ⚛️ React • ⚡ FastAPI • 🚀 Continuous Learner
 </p>
