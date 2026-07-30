@@ -11,3 +11,16 @@
 <p align="center">
 💻 Full Stack • 🤖 RPA • 🐍 Python • ⚛️ React • ⚡ FastAPI • 🚀 Continuous Learner
 </p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ridhinridhin&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ridhinridhin&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhinridhin&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=ridhinridhin&theme=tokyonight"/>
+</p>
