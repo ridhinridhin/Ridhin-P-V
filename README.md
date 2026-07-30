@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridhinridhin&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,react,js,java,mysql,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
